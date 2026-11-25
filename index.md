@@ -5,6 +5,4 @@ title: Home
 
 ## About me
 
-[A sentence or two about what you study and what you like working on.] [One more
-sentence about what you are looking for: an internship, a research group, a team
-to build things with.]
+I am a mechanical engineer at Cornell. My parents are French and Dutch and I grew up across Algeria, Malaysia, England and Texas. I am always curious and love working with people from all over the world. My dream project is to create my own carbon road bike from scratch.
