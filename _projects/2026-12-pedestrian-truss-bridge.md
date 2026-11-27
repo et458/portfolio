@@ -23,25 +23,20 @@ I looked at three common bridge trusses (Pratt, Howe and Warren) and sketched ea
 
 My full hand-written method, page by page. I wrote every step in symbols, then put the numbers into Excel.
 
-![Method page 1]({{ '/assets/images/truss/hand/method-01.jpg' | relative_url }})
+<div style="display:flex; gap:12px; overflow-x:auto; scroll-snap-type:x mandatory; padding-bottom:8px;">
+  <img src="{{ '/assets/images/truss/hand/method-01.jpg' | relative_url }}" alt="Method page 1 of 10" style="flex:0 0 60%; max-width:60%; scroll-snap-align:center; border:1px solid #ccc;">
+  <img src="{{ '/assets/images/truss/hand/method-02.jpg' | relative_url }}" alt="Method page 2 of 10" style="flex:0 0 60%; max-width:60%; scroll-snap-align:center; border:1px solid #ccc;">
+  <img src="{{ '/assets/images/truss/hand/method-03.jpg' | relative_url }}" alt="Method page 3 of 10" style="flex:0 0 60%; max-width:60%; scroll-snap-align:center; border:1px solid #ccc;">
+  <img src="{{ '/assets/images/truss/hand/method-04.jpg' | relative_url }}" alt="Method page 4 of 10" style="flex:0 0 60%; max-width:60%; scroll-snap-align:center; border:1px solid #ccc;">
+  <img src="{{ '/assets/images/truss/hand/method-05.jpg' | relative_url }}" alt="Method page 5 of 10" style="flex:0 0 60%; max-width:60%; scroll-snap-align:center; border:1px solid #ccc;">
+  <img src="{{ '/assets/images/truss/hand/method-06.jpg' | relative_url }}" alt="Method page 6 of 10" style="flex:0 0 60%; max-width:60%; scroll-snap-align:center; border:1px solid #ccc;">
+  <img src="{{ '/assets/images/truss/hand/method-07.jpg' | relative_url }}" alt="Method page 7 of 10" style="flex:0 0 60%; max-width:60%; scroll-snap-align:center; border:1px solid #ccc;">
+  <img src="{{ '/assets/images/truss/hand/method-08.jpg' | relative_url }}" alt="Method page 8 of 10" style="flex:0 0 60%; max-width:60%; scroll-snap-align:center; border:1px solid #ccc;">
+  <img src="{{ '/assets/images/truss/hand/method-09.jpg' | relative_url }}" alt="Method page 9 of 10" style="flex:0 0 60%; max-width:60%; scroll-snap-align:center; border:1px solid #ccc;">
+  <img src="{{ '/assets/images/truss/hand/method-10.jpg' | relative_url }}" alt="Method page 10 of 10" style="flex:0 0 60%; max-width:60%; scroll-snap-align:center; border:1px solid #ccc;">
+</div>
 
-![Method page 2]({{ '/assets/images/truss/hand/method-02.jpg' | relative_url }})
-
-![Method page 3]({{ '/assets/images/truss/hand/method-03.jpg' | relative_url }})
-
-![Method page 4]({{ '/assets/images/truss/hand/method-04.jpg' | relative_url }})
-
-![Method page 5]({{ '/assets/images/truss/hand/method-05.jpg' | relative_url }})
-
-![Method page 6]({{ '/assets/images/truss/hand/method-06.jpg' | relative_url }})
-
-![Method page 7]({{ '/assets/images/truss/hand/method-07.jpg' | relative_url }})
-
-![Method page 8]({{ '/assets/images/truss/hand/method-08.jpg' | relative_url }})
-
-![Method page 9]({{ '/assets/images/truss/hand/method-09.jpg' | relative_url }})
-
-![Method page 10]({{ '/assets/images/truss/hand/method-10.jpg' | relative_url }})
+*Pages 1–10: scroll or swipe sideways →*
 
 ---
 
@@ -73,4 +68,28 @@ I went with a **Pratt truss**: 12 m long, **2.0 m tall** and 2.0 m wide, split i
 
 ---
 
-*More coming soon: cardboard model and reflection.*
+## 5. Cardboard Model
+
+I built a 1:20 scale cardboard model of the final truss. At that scale the 12 m span is 60 cm and the 2 m height is 10 cm. It shows the shape and member layout and was not load tested.
+
+<video controls muted playsinline width="360" src="{{ '/assets/videos/model-walkaround.mp4' | relative_url }}"></video>
+
+![Model side view]({{ '/assets/images/truss/model/model-side.jpg' | relative_url }})
+
+![Model front view]({{ '/assets/images/truss/model/model-front.jpg' | relative_url }})
+
+![Model top view]({{ '/assets/images/truss/model/model-top.jpg' | relative_url }})
+
+---
+
+## 6. Reflection
+
+This project was hard to get started on, but once I got going and made a few mistakes, it started to click. I began by looking up truss designs online and picking three familiar ones (Pratt, Howe and Warren), then chose two main materials, steel and aluminum, to compare. Using Excel the way we learned in class made the rest much simpler. I could set up every equation with formulas and let the spreadsheet do the math, which made it easy to test different heights, materials and tube sizes. The trickiest part was the drawings and making sure my trusses were correct, especially getting every FBD and force direction right before trusting the numbers.
+
+I really enjoyed building the cardboard model. It's precisely to scale (1:20), and it helped me visualise what was happening in the structure: which members are squeezed and which are pulled. The hardest part of the build was keeping everything perfectly aligned. If I did this again, I would load-test the model to compare it with my calculations.
+
+---
+
+## AI Usage Statement
+
+*To be completed.*
